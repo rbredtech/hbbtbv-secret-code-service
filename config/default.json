@@ -2,8 +2,8 @@
   "PORT": 8000,
   "ALLOW_ORIGIN": "*",
   "BLOCK_DELAY": 2000,
-  "AUTHENTICATION_SALT": "r4nd0mx",
+  "AUTHENTICATION_SALT": "xxxxxxxxxxx",
   "SECRET_KEYS": {
-    "72642017": "http://tracking-stage.redtech.redbull.com/live/graph.html"
+    "00000000": "test"
   }
 }
